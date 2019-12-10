@@ -15,3 +15,5 @@ C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\ob
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Newtonsoft.Json.dll
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Newtonsoft.Json.xml
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\obj\Debug\TwitchViewersNotifier.csproj.CopyComplete
+C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Stateless.dll
+C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Stateless.xml

@@ -1,23 +1,27 @@
-﻿using System;
+﻿using Stateless;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace TwitchViewersNotifier
 {
     public partial class MainWindow : Window
     {
+
+        enum State
+        {
+            Online,
+            Offline
+        }
+
+        enum Trigger
+        {
+            Sync,
+            Unsync
+        }
+
         public MainWindow()
         {
             InitializeComponent();
@@ -27,7 +31,20 @@ namespace TwitchViewersNotifier
         {
             Debug.Print(TwitchData.getClientId());
         }
+
+        private StateMachine<State,Trigger> initStateMachine()
+        {
+            StateMachine<State, Trigger> stateMachine = new StateMachine<State, Trigger>(State.Offline);
+
+            
+        }
+
         private void UnSync(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        public async Task MainLoop()
         {
 
         }

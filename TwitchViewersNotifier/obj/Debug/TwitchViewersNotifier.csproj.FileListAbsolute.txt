@@ -1,4 +1,3 @@
-C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\TwitchViewersNotifier.exe.config
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\TwitchViewersNotifier.exe
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\TwitchViewersNotifier.pdb
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\obj\Debug\TwitchViewersNotifier.csprojAssemblyReference.cache

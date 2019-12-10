@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-
+using System.Reflection;
 
 namespace TwitchViewersNotifier
 {
@@ -13,6 +13,7 @@ namespace TwitchViewersNotifier
             try
             {
                 String jsonString = File.ReadAllText("config.json");
+
                 String client_id = "Not found shit";
                 Dictionary<string, string> data = JsonConvert.DeserializeObject<Dictionary<string, string>>(jsonString);
 

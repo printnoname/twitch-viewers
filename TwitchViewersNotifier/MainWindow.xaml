@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TwitchViewersNotifier"
         mc:Ignorable="d"
-        Title="Twitch Оповещения" Height="450" Width="250">
+        Title="Twitch Оповещения" Height="300" Width="250">
     <Grid Background="#FF772CE8">
-        <Button Margin="57,193" Click="Sync">
+        <Button Name="syncButton" Margin="45,118" Click="Sync">
             <TextBlock Text="Синхронизироваться"></TextBlock>
         </Button>
-        <Button Margin="57,193" Visibility="Hidden" Click="UnSync">
+        <Button Name="unsyncButton" Margin="26,118" Visibility="Hidden" Click="UnSync">
             <TextBlock Text="Остановить синхронизацию"/>
         </Button>
         <Grid.ColumnDefinitions>

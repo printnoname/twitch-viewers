@@ -1,6 +1,5 @@
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\TwitchViewersNotifier.exe
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\TwitchViewersNotifier.pdb
-C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\obj\Debug\TwitchViewersNotifier.csprojAssemblyReference.cache
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\obj\Debug\MainWindow.g.cs
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\obj\Debug\App.g.cs
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\obj\Debug\TwitchViewersNotifier_MarkupCompile.cache
@@ -17,3 +16,6 @@ C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bi
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\obj\Debug\TwitchViewersNotifier.csproj.CopyComplete
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Stateless.dll
 C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Stateless.xml
+C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\printnoname\source\repos\TwitchViewersNotifier\TwitchViewersNotifier\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
